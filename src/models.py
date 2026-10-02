@@ -131,6 +131,7 @@ def get_backbone(model_name):
             include_top=False,
             input_shape=input_shape
         )
+        
 
     else:
 

@@ -90,6 +90,7 @@ def train_model(model_name):
         HISTORY_DIR
         / f"{model_name}_history.csv"
     )
+    
 
     history_df.to_csv(
         history_path,

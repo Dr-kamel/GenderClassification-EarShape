@@ -215,6 +215,7 @@ IR-EAR/
 
 ### Description of the main files
 
+
 **`configs/config.py`**
 
 Contains the main project configuration, including dataset paths, image size, batch size, training parameters, and output directories.

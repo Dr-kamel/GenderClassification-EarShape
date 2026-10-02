@@ -450,6 +450,7 @@ def print_image_counts():
             )
 
 
+
 def main():
 
     df = load_metadata()
